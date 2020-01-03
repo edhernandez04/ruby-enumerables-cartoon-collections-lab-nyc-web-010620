@@ -10,7 +10,7 @@ def summon_captain_planet(planeteer_calls)# code an argument here
 end
 
 def long_planeteer_calls(planeteer_calls)# code an argument here
-  planeteer_calls.map { |planteer| return true if planteer.length > 4}
+  planeteer_calls.map { |planteer| return true if planteer.length > 4 else return false}
   # Your code here
 end
 
