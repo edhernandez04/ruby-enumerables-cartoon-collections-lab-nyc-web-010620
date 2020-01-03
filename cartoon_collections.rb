@@ -1,4 +1,5 @@
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves(names)# code an argument here
+  names.each_with_index { |names, index| p "#{index +1}. #{name}"}
   # Your code here
 end
 
