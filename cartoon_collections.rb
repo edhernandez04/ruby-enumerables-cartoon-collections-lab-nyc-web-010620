@@ -3,7 +3,6 @@ def roll_call_dwarves(dwarf)# code an argument here
     puts "#{index +1}. #{name}" }
   end
   # Your code here
-end
 
 def summon_captain_planet# code an argument here
   # Your code here
